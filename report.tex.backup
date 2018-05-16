@@ -1,0 +1,22 @@
+\documentclass[a4paper,10pt]{report}
+\usepackage[utf8]{inputenc}
+
+% Title Page
+\title{CANDLE syndrome}
+\author{Juan Luis Melero and Helena Rodríguez}
+
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+\end{abstract}
+
+\chapter{General Features}
+
+\section{Denominations of the disease}
+
+CANDLE disease is an acronym for \textit{Chronic Atypical Neutrophilic Dermatosis with Lipodystrophy and Elevated temperature}. This name was set by Torrelo et al. in 2010 \cite{torrelo2010}
+
+
+\end{document}          
